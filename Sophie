@@ -1,2 +1,4 @@
 def func():
     print("Sophie eat a lot of ice")
+
+    print("Sophie eat another glass of ice")
